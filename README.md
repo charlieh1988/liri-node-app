@@ -27,7 +27,7 @@ This will show your last 20 tweets and when they were created at in your termina
     * The album that the song is from
 
  * if no song is provided then the program will default to
-    * "The Sign" by Ace of Base
+    * "Waterfalls" by TLC
 
 3: node liri.js movie-this `<movie name here>`
 * This will output the following information to your terminal/bash window:
@@ -42,7 +42,7 @@ This will show your last 20 tweets and when they were created at in your termina
     * Rotten Tomatoes Rating.
     * Rotten Tomatoes URL.
 
-* If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+* If the user doesn't type a movie in, the program will output data for the movie 'Halloween'
 
    
 4: node liri.js do-what-it-says
