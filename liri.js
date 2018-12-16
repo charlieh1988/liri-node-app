@@ -96,7 +96,7 @@ function spotSong(parameter) {
 
   var searchTrack;
   if (parameter === undefined) {
-    searchTrack = "The Sign ace of base";
+    searchTrack = "Waterfalls TLC";
   } else {
     searchTrack = parameter;
   }
@@ -124,7 +124,7 @@ function movieInfo(parameter) {
 
   var findMovie;
   if (parameter === undefined) {
-    findMovie = "Mr. Nobody";
+    findMovie = "Halloween";
   } else {
     findMovie = parameter;
   };
